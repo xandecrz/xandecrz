@@ -1,7 +1,7 @@
 # Hola 👋 Soy Alexander Cruz
 
 💻 Desarrollador Web
-🐍 Python | Flask | HTML | CSS
+🐍 Python | Flask | HTML | CSS | MYSQL
 
 ## Tecnologías
 - Python
@@ -10,7 +10,12 @@
 - GitHub
 - MySQL
 
-## Actualmente aprendiendo
+## Actualmente
 - estoy trabajando en aplicacion web para prestamista gestion y aministarcion de prestamos
+
+## proyectos a futuro
+- Loan App
+- Admin Dashboard
+- Sistema ERP
 
 <a href="https://facebook.com/xandecrz">facebook</a>
