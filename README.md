@@ -12,3 +12,5 @@
 
 ## Actualmente aprendiendo
 - estoy trabajando en aplicacion web para prestamista gestion y aministarcion de prestamos
+
+<a href="https://facebook.com/xandecrz">facebook</a>
