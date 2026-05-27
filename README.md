@@ -11,11 +11,10 @@
 - MySQL
 
 ## Actualmente
-- estoy trabajando en aplicacion web para prestamista gestion y administarcion de prestamos
+- estoy trabajando en aplicacion web para prestamista gestion y administracion de prestamos
 
 ## proyectos a futuro
 - Loan App
 - Admin Dashboard
 - Sistema ERP
 
-<a href="https://facebook.com/xandecrz">facebook</a>
