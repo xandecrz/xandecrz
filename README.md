@@ -11,7 +11,7 @@
 - MySQL
 
 ## Actualmente
-- estoy trabajando en aplicacion web para prestamista gestion y aministarcion de prestamos
+- estoy trabajando en aplicacion web para prestamista gestion y administarcion de prestamos
 
 ## proyectos a futuro
 - Loan App
